@@ -59,19 +59,19 @@ Becoming a full stack web developer means that you need to be comfortable with w
 
 ### Day 4: Mini Project & Exercises
 - [ ] Exercises 1-13 in the [sql-exercises][sql-exercises] repo are complete and written to the appropriate file:
-  - [ ] `sql/01-create-table-student.sql`
-  - [ ] `sql/02-create-table-friend.sql`
-  - [ ] `sql/03-create-table-like.sql`
-  - [ ] `sql/04-load-table-learner.sql`
-  - [ ] `sql/05-load-table-friend.sql`
-  - [ ] `sql/06-load-table-like.sql`
-  - [ ] `sql/07-query-friends-gabriel.sql`
-  - [ ] `sql/08-query-likes-grade-two-or-more.sql`
-  - [ ] `sql/09-mutual-likes.sql`
-  - [ ] `sql/10-not-liked.sql`
-  - [ ] `sql/11-liked-but-does-not-like.sql`
+  - [X] `sql/01-create-table-student.sql`
+  - [X] `sql/02-create-table-friend.sql`
+  - [X] `sql/03-create-table-like.sql`
+  - [X] `sql/04-load-table-learner.sql`
+  - [X] `sql/05-load-table-friend.sql`
+  - [X] `sql/06-load-table-like.sql`
+  - [X] `sql/07-query-friends-gabriel.sql`
+  - [X] `sql/08-query-likes-grade-two-or-more.sql`
+  - [X] `sql/09-mutual-likes.sql`
+  - [X] `sql/10-not-liked.sql`
+  - [X] `sql/11-liked-but-does-not-like.sql`
   - [ ] `sql/12-find-friends-in-common.sql`
-  - [ ] `sql/13-popular-students.sql`
+  - [X] `sql/13-popular-students.sql`
 Exercises to help exercise the SQL muscles.
 
 Base repository for the [core-sql](https://github.com/GuildCrafts/web-development-js/issues/178) goal.
